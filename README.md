@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">About me<br>As a fresh graduate entering the data engineering field, I’m passionate about creating impactful data solutions and eager to tackle new challenges. I have foundational skills in data pipelines, ETL processes, and data warehousing, with hands-on experience in tools like Python, SQL, and cloud platforms.<br><br>I’m looking to join a forward-thinking team where I can grow, bring fresh ideas, and help turn complex data into insights that drive smarter business decisions. Driven by curiosity and a love for problem-solving, I’m ready to take on challenging projects that make a real difference.<br><br>Excited to apply my skills in real-world settings, contribute to impactful projects, and collaborate with experienced teams to drive data-driven decisions. Eager to find a role where I can grow and make a meaningful impact. Open to new opportunities and ready to take on challenges!"</h6>
+<h5 align="left">About me<br>As a fresh graduate entering the data engineering field, I’m passionate about creating impactful data solutions and eager to tackle new challenges. I have foundational skills in data pipelines, ETL processes, and data warehousing, with hands-on experience in tools like Python, SQL, and cloud platforms.<br><br>I’m looking to join a forward-thinking team where I can grow, bring fresh ideas, and help turn complex data into insights that drive smarter business decisions. Driven by curiosity and a love for problem-solving, I’m ready to take on challenging projects that make a real difference.<br><br>Excited to apply my skills in real-world settings, contribute to impactful projects, and collaborate with experienced teams to drive data-driven decisions. Eager to find a role where I can grow and make a meaningful impact. Open to new opportunities and ready to take on challenges!"</h5>
 
 ###
 
@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" alt="pandas logo"  />
 </div>
 
 ###
