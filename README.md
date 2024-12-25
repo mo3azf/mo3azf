@@ -31,6 +31,10 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" alt="pandas logo"  />
   <img src="https://www.pinclipart.com/picdir/big/533-5334939_transparent-data-warehouse-icon-clipart.png" height="40" alt="pandas logo"  />
+  <img src="https://th.bing.com/th/id/OIP.xF4nI9TnaHMeRsUsXygYSwHaGg?rs=1&pid=ImgDetMain" height="40" alt="pandas logo"  />
+
+
+
 
   
 </div>
