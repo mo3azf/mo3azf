@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Techinical Skills</h2>
 
 ###
 
@@ -27,9 +27,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img src="https://th.bing.com/th/id/R.0d524bdb471a72f86b78c0fdc7aaa4f3?rik=dpIOLFSfAmG6lQ&pid=ImgRaw&r=0" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" height="40" alt="pandas logo"  />
+  <img src="https://www.pinclipart.com/picdir/big/533-5334939_transparent-data-warehouse-icon-clipart.png" height="40" alt="pandas logo"  />
+
+  
 </div>
 
 ###
