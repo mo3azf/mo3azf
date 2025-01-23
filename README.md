@@ -36,9 +36,12 @@
   <img width="15" />
   <img src="https://st3.depositphotos.com/4060975/17802/v/450/depositphotos_178026890-stock-illustration-relational-database-vector-line-icon.jpg" height="50" alt="relation database logo"  />
   <img width="15" />
+  <img src="https://www.thebigdatainsightgroup.com/wp-content/uploads/2018/09/apache-hadoop-v3.png" height="50" alt="Hadoop logo"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsZDBHNdADF46UO4i-yw2KqZ3Ne2f3iAepjuiCPpbA5CtmKCaJX5D53bNu4o1jrVwFoFE&usqp=CAU" height="50" alt="Apache_Spark_logo"  />
+  <img width="15" />
 
   
-
 
 <h2 align="left">Contact With Me</h2>  
 </div>
